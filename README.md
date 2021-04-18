@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charg2dang
-- 👀 I’m interested in multi-thread, game and web server
-- 🌱 I’m currently learning ue4
+- 👀 I’m interested in multi-thread, game server and web server
+- 🌱 I’m currently learning rust
 - 📫 How to reach me charg2dang@kakao.com
 
 <!---
