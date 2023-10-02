@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @charg2dang
-- 👀 I’m interested in multi-thread, game server and web server
-- 🌱 I’m currently learning rust
+- 👀 I’m interested in server
+- 🌱 I’m currently learning c#
 - 📫 How to reach me charg2dang@kakao.com
+- 👋 Youtube: https://www.youtube.com/watch?v=Ia3pG5VpZeo
 
 <!---
-charg2dang/charg2dang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+charg2/charg2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
